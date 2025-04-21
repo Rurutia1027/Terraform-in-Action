@@ -1,0 +1,9 @@
+aws_instance.web
+aws_internet_gateway.main
+aws_route_table.public
+aws_route_table_association.public
+aws_security_group.public_http_traffic
+aws_subnet.public
+aws_vpc.main
+aws_vpc_security_group_ingress_rule.http
+aws_vpc_security_group_ingress_rule.https

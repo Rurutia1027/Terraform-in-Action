@@ -1,0 +1,22 @@
+{
+  "all_availability_zones" = tobool(null)
+  "exclude_names" = toset(null) /* of string */
+  "exclude_zone_ids" = toset(null) /* of string */
+  "filter" = toset(null) /* of object */
+  "group_names" = toset([
+    "eu-west-1",
+  ])
+  "id" = "eu-west-1"
+  "names" = tolist([
+    "eu-west-1a",
+    "eu-west-1b",
+    "eu-west-1c",
+  ])
+  "state" = "available"
+  "timeouts" = null /* object */
+  "zone_ids" = tolist([
+    "euw1-az2",
+    "euw1-az3",
+    "euw1-az1",
+  ])
+}

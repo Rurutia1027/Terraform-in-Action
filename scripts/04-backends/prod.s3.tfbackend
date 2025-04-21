@@ -1,0 +1,3 @@
+bucket = "elasticbeanstalk-ap-southeast-1-423623859578"
+key = "04-backends/prod/state.tfstate"
+region = "ap-southeast-1"

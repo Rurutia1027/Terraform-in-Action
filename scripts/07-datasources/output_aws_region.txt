@@ -1,0 +1,6 @@
+{
+  "description" = "Europe (Ireland)"
+  "endpoint" = "ec2.eu-west-1.amazonaws.com"
+  "id" = "eu-west-1"
+  "name" = "eu-west-1"
+}
