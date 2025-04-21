@@ -2,6 +2,8 @@
 
 Welcome to my journey through the **Mastering Terraform** course! This repository tracks my learning progress, hands-on projects, and key takeaways as I build expertise in Infrastructure as Code (IaC) using Terraform.
 
+This repo is isolated from [SRE-Playground](https://github.com/Rurutia1027/SRE-Playground/tree/master/practice-terraform) for future automation and scripts maintainance. 
+
 ---
 
 ## Course Overview
