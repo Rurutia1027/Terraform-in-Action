@@ -25,10 +25,10 @@ Welcome to my journey through the **Mastering Terraform** course! This repositor
 | Section            | Status        | Notes                                         |
 | ------------------ | ------------- | --------------------------------------------- |
 | Intro to Terraform | ✅ Completed   | Set up Terraform and learned basics.          |
-| Core Concepts      | 🔄 In Progress | Exploring modules and variable management.    |
-| AWS with Terraform | ❌ Not Started | Excited to work with AWS services.            |
-| Advanced Terraform | ❌ Not Started | Looking forward to backends and workspaces.   |
-| Hands-On Projects  | ❌ Not Started | Ready to apply learning in real-world setups. |
+| Core Concepts      |✅ Completed   | Exploring modules and variable management.    |
+| AWS with Terraform | ✅ Completed  | Excited to work with AWS services.            |
+| Advanced Terraform | ✅ Completed   | Looking forward to backends and workspaces.   |
+| Hands-On Projects  | ✅ Completed   | Ready to apply learning in real-world setups. |
 
 ---
 
